@@ -1,0 +1,8 @@
+package service.copy;
+
+public interface ReprodutorMusical {
+  void tocar();
+  void pausar();
+  void selecionarMusica();
+
+}

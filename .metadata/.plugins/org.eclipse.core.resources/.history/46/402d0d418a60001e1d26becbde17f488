@@ -1,0 +1,8 @@
+package service.copy;
+
+public interface NavegadorInternet {
+  void exibirPagina();
+  void adicionarNovaAba();
+  void atualizarPagina();
+
+}
